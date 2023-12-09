@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Välkommen till bloggen"
+title: "Disputerade poliser i Sverige"
 subtitle: "En blogg om polisforskning."
 date: 2023-12-08 10:00:00 +0000
 background: '/img/bg-polis.jpg'
@@ -44,4 +44,6 @@ En annan sak som är lite intressant är att vad jag kunnat läsa mig till är d
 
 ### Avslutning
 Som sagt, en ganska informell lista över diputerade poliser. Cecilia Jonsson på Lnu har nog något betydligt mer djuplodande på gång, som jag hoppas att vi får ta del av inom kort. Jag vet också att det finns åtminstone två namn till som är på väg in på listan inom en inte alltför avlägsen tid. Så det tar sig! 
+
+PS. Kriterierna för denna lista fick bli: polisutbildad (alltså inte polischef som gått juristspåret) i Sverige. Viss anknytning skall finnas till det polisiära i forskningen. Utan att ha läst hela avhandlingen är kanske Frida Skarins avhandling inte så tydligt kopplad till polisen specifikt, men väl ett ämne av intresse för polisen och poliser. Så poliser som helt bytt bana och forskat om 1600-tals poesi i Frankrike eller botanik fick inte vara med på listan, den här gången. 
 
