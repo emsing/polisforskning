@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disputerade poliser i Sverige"
-subtitle: "En blogg om polisforskning."
+subtitle: "En lista."
 date: 2023-12-08 10:00:00 +0000
 background: '/img/bg-polis.jpg'
 ---
